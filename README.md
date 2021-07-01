@@ -12,6 +12,6 @@
 #### Projects Based On Machine Learning Algorithum
 - [Anolomy Detection](https://github.com/nikitasaxena992/Machine-Learning-Projects/blob/main/Analomy-%20Detection.ipynb)
 - Indian Crop Prediction
-- Sentiment Analysis of Zomato review.
+- [Sentiment Analysis of Zomato review.](https://github.com/nikitasaxena992/Machine-Learning-Projects/blob/main/Sentiment%20Analysis.ipynb)
 - Text summarization
 - Keyword Extraction of Website.
